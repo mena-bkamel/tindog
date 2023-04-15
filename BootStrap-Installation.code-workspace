@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "BootStrap-Installation",
+			"path": ".."
+		},
+		{
+			"name": "CSS-My Site",
+			"path": "../../../CSS-My Site"
+		},
+		{
+			"name": "HTML-personal site",
+			"path": "../../HTML-personal site"
+		},
+		{
+			"path": "../../TinDog-Start-master"
+		}
+	],
+	"settings": {}
+}
